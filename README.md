@@ -1,3 +1,9 @@
+
+This is a fork of [tmconnect/acf-relationship-multisite](https://github.com/tmconnect/acf-relationship-multisite) containing just the version of the plugin for ACF 5.2.7 and newer. [Related issue](https://github.com/tmconnect/acf-relationship-multisite/issues/19).
+
+
+
+
 # Advanced Custom Fields: Relationship Multisite
 
 Get post, pages and custom post types from another site of your WordPress Multisite installation.
